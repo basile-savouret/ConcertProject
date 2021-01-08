@@ -16,6 +16,7 @@ Puis lançez le front-end avec la commannde `npm run start` ou `yarn start`.
 Avec les fixtures dans symfony il y a le compte admin:
 - email: admin@admin.fr
 - mot de passe: admin
+
 qui est créé avec tout les droits d'accès pour pouvoir tester toutes les fonctionnalités du projet.
 
 A la crétion d'un utilisateur je laisse volontairement le choix des roles pour pouvoirs tester les différentes fonctionnalités
